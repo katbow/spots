@@ -1,0 +1,2 @@
+# spots
+Spots MVP
